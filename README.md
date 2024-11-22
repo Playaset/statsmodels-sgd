@@ -25,3 +25,4 @@ model.fit(X, y)
 model = sm_sgd.Logit(n_features=X.shape[1])
 model.fit(X, y)
 ```
+
